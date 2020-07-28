@@ -1,0 +1,9 @@
+_id: 15784e40-c6a9-11ea-875b-5bbadb491e6f
+quote: "@John Constant:
+Start with [blog.markdown](https://github.com/iyeraravind/aravind-website/blob/master/_pages/blog.markdown) and follow the trail:
+--> [archive-single.html](https://github.com/iyeraravind/aravind-website/blob/master/_includes/archive-single.html) --> `grid__item`.
+
+And then from [main.scss](https://github.com/iyeraravind/aravind-website/blob/master/assets/css/main.scss) --> [custom.scss](https://github.com/iyeraravind/aravind-website/blob/master/_sass/custom.scss) for `.grid__item` properties."
+name: Aravind Iyer
+hidden: ''
+date: '2020-07-28T14:29:15.314Z'
